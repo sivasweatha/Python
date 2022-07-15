@@ -11,7 +11,7 @@
 #    m = n
 #    n = x
 
-#the better version, after my brother's chastisement
+#the better version
 
 # getting the number from the user
 times = int(input("Enter till which number you want the series: "))
@@ -30,8 +30,7 @@ def fib(times):
       n = swap
    return fibnochi
 
-# mentioning my brother because he is a bully
-yogi = fib(times)
+fibseries = fib(times)
 
 # printing the array
-print(yogi)
+print(fibseries)
