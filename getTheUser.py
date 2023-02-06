@@ -1,3 +1,10 @@
+# random code because stupid things are fun to do
+
+"""
+    code to find which github user has the given set of numbers as their id
+    this code brings the user's info that could be found with the api + their avatar
+"""
+
 import requests
 
 class GetTheUser():
